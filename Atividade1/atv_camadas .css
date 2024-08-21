@@ -1,0 +1,63 @@
+#camada1{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    height: 100px;
+    width: 800px;
+    background-color: rgba(85, 189, 154, 0.719);
+    text-align:center;
+    font-size: 25px;
+    z-index: 1;
+}
+#camada2{
+    position: absolute;
+    top: 105px;
+    left: 5px;
+    background-color: rgb(4, 62, 80);
+    height: 500px;
+    width: 800px;
+    z-index: 1;
+}
+#camada3{
+    position: absolute;
+    top: 105px;
+    left: 70px;
+    background-color: gray;
+    height: 500px;
+    width: 600px;
+    z-index: 2;
+}
+#camada4{
+    position: absolute;
+    left: 675px;
+    top: 105px;
+    background-color: #FFF;
+    height: 100px;
+    width: 125px;
+    z-index: 2;
+
+}
+#camada5{
+    position: absolute;
+    left: 675px;
+    top: 210px;
+    background-color: #FFF;
+    height: 100px;
+    width: 125px;
+    z-index: 2;
+}
+#camada6{
+    position: absolute;
+    left: 5px;
+    top: 605px;
+    background-color: cornflowerblue;
+    height: 30px;
+    width: 800px;
+    z-index: 2;
+}
+#camada7{
+    position: absolute;
+    top: 450px;
+    left: 530px;
+    z-index: 3;
+}
